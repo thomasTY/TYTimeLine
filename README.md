@@ -1,6 +1,10 @@
-# ty_pull_up_load
+# TYTimeLine
 
-> A Vue.js project
+> 基于vue封装的时间线列表组件
+
+## Demo地址
+
+[https://thomasty.github.io/TYTimeLine/dist/#/](https://thomasty.github.io/TYTimeLine/dist/#/)
 
 ## Build Setup
 
